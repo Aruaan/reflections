@@ -1,0 +1,58 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I don't know.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+I don't know.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+I don't know.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+We could branch different changes of the code by how they are related with each other.
+
+How do the diagrams help you visualize the branch structure?
+
+They help a lot.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+I don't know
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+If we do it alone we can overdo or underdo it, and we can also forget to do it, but we can do it whenever we feel like we need it to,
+ and if we do it automatically we dont have to worry about it but we run the risk of it overdoing and underdoing it.
+ 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I don't really know how it is different.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I don't really know how to explain it.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If we were making a big change that we think might not work or if we were translating the app to italian, we would have everything organized into individual branches.
+
+How do the diagrams help you visualize the branch structure?
+
+I can't just imagine it in my head so drawing diagrams helps me with realizing its structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We mash the code changes that we've made in those two separate branches and now every commit is in the same branch, which is why we represent it that way.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+As in all cases, when it comes to automatic we make sure that the merging is done, but we dont know if it will be done at a time when it is too late or too early, but when we do that manually we can assure that we do it at the right time, but we can also forget to do it.
